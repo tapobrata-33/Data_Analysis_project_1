@@ -4,6 +4,7 @@ Overview
 This project analyzes customer churn data using Python,machine larning,sql,excel and Power BI.
 
   Tools Used
+  
 - Python (Pandas, Matplotlib, Seaborn)
 - Machine Learning (Logistic Regression)
 - Power BI Dashboard
@@ -11,12 +12,14 @@ This project analyzes customer churn data using Python,machine larning,sql,excel
 - Excel
 
   Features
+  
 - Data Cleaning
 - Data Visualization
 - Churn Analysis
 - Prediction Model
 
   Insights
+  
 - Month-to-month contracts have high churn
 - High charges increase churn
 - Long-term customers are more loyal
