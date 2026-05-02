@@ -1,50 +1,55 @@
 Customer Churn Analysis Project
+Overview : This project focuses on analyzing customer churn data to identify key factors influencing customer retention. Using a combination of data analysis and machine learning techniques, the project transforms raw data into meaningful business insights.
 
-Overview
-This project analyzes customer churn data using Python,machine learning,sql,excel and Power BI.
+Tools & Technologies
+Python (Pandas, Matplotlib, Seaborn)
+Machine Learning (Logistic Regression)
+SQL
+Excel
+Power BI
 
-  Tools Used
-  
-- Python (Pandas, Matplotlib, Seaborn)
-- Machine Learning (Logistic Regression)
-- Power BI Dashboard
-- Sql
-- Excel
+ 
+Key Features
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Data Visualization
+Churn Analysis
+Predictive Modeling
+Key Insights
+Customers with month-to-month contracts show higher churn
+Higher monthly charges are associated with increased churn
+Long-term customers are more likely to stay
+Project Visualizations
 
-  Features
-  
-- Data Cleaning
-- Data Visualization
-- Churn Analysis
-- Prediction Model
+ 
+Customer Churn Distribution
+This chart shows that most customers remain with the company, while a smaller portion churn. However, the churn segment is still significant and requires attention.
+Insight: Retention strategies are needed to reduce churn.
 
-  Insights
-  
-- Month-to-month contracts have high churn
-- High charges increase churn
-- Long-term customers are more loyal
+Churn Analysis by Contract Type
+Customers with month-to-month contracts have the highest churn rate, while longer-term contracts show better retention.
+Insight: Encouraging long-term contracts can improve customer retention.
 
-  Project Visualizations
-  
-  1. Customer Churn Distribution
+Monthly Charges Distribution
+This visualization shows that most customers fall within a mid-to-high pricing range.
+Insight:  Pricing plays a crucial role in customer behavior and churn.
 
-  This chart shows the distribution of customer churn. Most customers have not churned, while a smaller portion have left the service. This indicates that the company retains the majority of its customers, but     churn still represents a significant segment that requires attention.
-  Key Insight:  A noticeable portion of customers are churning, highlighting the need for retention strategies.
 
-  2. Churn Analysis by Contract Type
+This project demonstrates how data analysis and visualization can help businesses understand customer behavior and reduce churn. By focusing on contract types and pricing strategies, companies can improve customer retention.
 
-  This chart compares customer churn across different contract types. Customers with month-to-month contracts show the highest churn rate, while one-year and two-year contracts have significantly lower churn.
-  Key Insight: Longer contract durations are strongly associated with better customer retention.
+ 
+Learning Outcomes
+Gained hands-on experience with real-world datasets
+Improved skills in data cleaning, visualization, and analysis
+Learned how to build and apply a machine learning model
+Developed the ability to present data insights effectively
+Built a professional project using GitHub
 
-  3. Monthly Charges Distribution
 
-  This histogram represents the distribution of monthly charges among customers. Most customers fall within the mid-to-high price range, with fewer customers at the extreme low or high ends.
-  Key Insight: Pricing plays an important role in customer segmentation and potential churn behavior.
+Team Members
+Tapobrata Deghuria – Project Idea & Python Developer
+Debarjun Dafadar – SQL Developer
+Sovan Maity – Excel & Power BI Developer
 
-In this data analysis project, we learned how to work with real-world data and convert it into meaningful insights. Using Microsoft Power BI, we gained practical skills in data cleaning, visualization, and dashboard creation, which helped me understand trends and patterns effectively. We also improved my knowledge of Excel for handling and preparing datasets before analysis. Additionally, by uploading and managing my project on GitHub, I learned how to present my work professionally and build a strong portfolio. Overall, this project helped us develop analytical thinking, technical skills, and the ability to communicate data-driven results clearly, which are essential for a career in data analysis.
-
-our team members 
-
-Tapobrata Deghuria[Project Idea/Python Devoloper]
-Debarjun Dafadar [SQL Devoloper]
-Sovan Maity[Excel/Power Bi devoloper]
+ 
+ Project Link
